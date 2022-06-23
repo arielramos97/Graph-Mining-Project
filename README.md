@@ -6,7 +6,7 @@ The aim of this project was to build a new graph dataset from real data. For thi
 
 Besides, each artist (node) has its own features extracted from 9 audio features from each of its top songs.
 
-Finally, we performed Node Classification by using the APPNP model proposed in the paper:
+Finally, we performed Node Classification (14 genres) by using the APPNP model proposed in the paper:
 
 **[Predict then Propagate: Graph Neural Networks meet Personalized PageRank](https://www.daml.in.tum.de/ppnp)**   
 by Johannes Gasteiger, Aleksandar Bojchevski, Stephan Günnemann   
